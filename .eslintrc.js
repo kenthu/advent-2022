@@ -12,10 +12,4 @@ module.exports = {
   rules: {
     'import/order': ['error', { 'newlines-between': 'always', alphabetize: { order: 'asc' } }],
   },
-  settings: {
-    'import/resolver': {
-      typescript: true,
-      node: true,
-    },
-  },
 };
