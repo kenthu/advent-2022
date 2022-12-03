@@ -25,5 +25,9 @@
     "build": "tsc -p tsconfig.json",
     "clean": "rm -rf dist build",
     "ts-node": "ts-node"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.191",
+    "lodash": "^4.17.21"
   }
 }
