@@ -1,0 +1,7 @@
+{
+  "name": "advent-2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kent Hu <kenthu@kenthu.net>",
+  "license": "MIT"
+}
